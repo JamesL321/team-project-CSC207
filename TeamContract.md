@@ -18,37 +18,41 @@ This contract sets out shared expectations and commitments for how our team will
 
 ### Communication
 
-* Which platform will you use for communication outside of class, when required for work on your course project? (Examples: Text message, Discord, WeChat, etc.)
+* We will communicate via a discord groupchat.
 
-* Each teammate agrees to respond to messages in at most how long? 1 day? 2 days? Some other amount of time? 
+* All teammates will respond to messages within 24 hours. 
 
-* What things should a teammate notify you about? (Examples: if they think they won't be able to meet a deadline, if they have to miss lecture, etc.)
+* Team members will inform the group on anything related to deadlines and major decisions on their assigned portions of the project (project achitechture, api choice, major UI choices).
 
-* Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
+* Respectful behavior and communication in group includes active , giving everyone a chance to meaningfully contribute, and giving each person a choice to weigh in on decisions and in discussions.
 
 ---
 
-### [Other Categories of norms and expectations go here]
+### General Communication Guidelines
 
-* Based on your previous teamwork experiences, what other behaviours do you agree upon as a team?
-    - some examples of possible additional team norms and expectations are included in the sample team contract in case your team needs some help getting ideas for what else you want to include.
+* Team members will consult each other on major decisions
+*  Team members will check Github regularly
+*  Team members will also inform the groupchat whenever they are doing a major push on git.
 
 ---
 
 ## Decision Making
 
-* How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
+* Decisions will be made by majority vote of the whole team.
 
 ---
 ## Conflict resolution
 
-* How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
+* We will resolve conflict by listening to each other's side of the issue and attempting to reach a compromise, and by consulting a TA or instructor as a team, if a resolution is unable to be reached internally.
 
 ---
 
 ## Accountability
 
-* Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? (Example: completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.)
+* Team members should not push code that has not passed unit tests.
+* AI will be used primarily on the UI and for testing and debugging purposes, but will not be used for the background logic of the code.
+* Large refactors will not be undertaken without consulting the team.
+* Team members shall try and meet internal deadlines and be communicative about progress.
 
 ---
 
@@ -58,4 +62,4 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 Team Member Signatures:
 
-(type names here)
+AA, JTL, DC
