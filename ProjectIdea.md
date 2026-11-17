@@ -2,7 +2,6 @@
 
 A route planner app pedestrians which allows you to draw routes, mark them as completed, and has leaderboards/user interactions
 
-
 # User Stories
 
 Users: Walkers people who hike who want to connect, record, plan routes(?)
@@ -46,7 +45,6 @@ Graph-based processing and querrying MongoDB.
 - Popular routes in the users' area
 - People with same/similar routes, similar walking habits, player matching essentially. 
 
-
 ## Player interactions, sign-ups and leaderboards
 James implements
 
@@ -56,7 +54,6 @@ Database interactions are rather non-relational in these areas.
 - MongoDB
 
 ### Use Cases
-
 - Home screen 
     - Main User stats
 - Users screen
@@ -73,11 +70,9 @@ Database interactions are rather non-relational in these areas.
     - Time spent walking
     - Number of walks
 
-
 # How the UI is designed, and the between-parts interactions
 
 ## UI
-
 - Home (goes to the three mentioned, some stats)
     - Branches out to the three other UI's
 - Player 
@@ -91,7 +86,4 @@ Database interactions are rather non-relational in these areas.
 ## interactions
 We want to limit the interactions between the individual parts in the database, using a relational one allows us to do that. So the reccomendations can be generated automatically, and the users/reccomendation screen can pull from that when needed. 
 
-Similarly, routes are uploaded with a graph-like structure, for them to be easier to process form the drawing sub-part. 
-
-
-
+Similarly, routes are uploaded with a graph-like structure, for them to be easier to process form the drawing sub-part.
