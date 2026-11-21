@@ -36,3 +36,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Personal Windows Setup ###
+mvn.bat
+
+### Other ###
+.claude
